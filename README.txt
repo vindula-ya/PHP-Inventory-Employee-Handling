@@ -1,4 +1,4 @@
-**************SLT Inventory 2.0********************
+**************Inventory 2.0********************
 >>SQL files are in database folder
 >> 1. Create DB 'inventory' in mysql.
 >> 2. Put inventory.sql queries and run the program.
